@@ -6,4 +6,4 @@ reaizar deploy de modelos de machine learning .
 
 ##
 
-  ![Snake animation](https://github.com/AndreDimitrov/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AndreDimitrov/AndreDimitrov/blob/output/github-contribution-grid-snake.svg)
