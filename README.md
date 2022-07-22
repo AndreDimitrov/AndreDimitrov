@@ -4,3 +4,6 @@
 - 🌱 Atualmente estou estudando Data Science, Cypress e RobotFramework. Também aprendendo um pouco sobre criação de páginas para sites, com o objetivo de 
 reaizar deploy de modelos de machine learning .
 
+##
+
+  ![Snake animation](https://github.com/AndreDimitrov/rafaballerini/blob/output/github-contribution-grid-snake.svg)
