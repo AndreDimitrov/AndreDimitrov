@@ -1,7 +1,7 @@
 ### <h1 align="center">Olá 👋, Eu sou André.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andredimitrov&label=Profile%20views&color=0e75b6&style=flat" alt="andredimitrov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andredimitrov" alt="andredimitrov" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andredimitrov" alt="andredimitrov" /></a> </p>
 
 - 🔭 Atualmente estou trabalhando na área de Analista de QA, com testes automatizados utilizando as ferramentas Cypress e RobotFramework.
 
