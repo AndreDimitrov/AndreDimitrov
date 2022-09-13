@@ -1,4 +1,4 @@
-### <h1 align="center">Olá 👋, Eu sou André.</h1>
+### <h1 align="center">Olá 👋, meu nome é André.</h1>
 
 <!-- Texto digitado de forma automático -->
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Robot+Mono&pause=1000&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Andr%C3%A9." alt="Typing SVG" /></a> -->
